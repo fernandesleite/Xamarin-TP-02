@@ -1,0 +1,15 @@
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\bin\Debug\netstandard2.0\XF.MVVMBasic.deps.json
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\bin\Debug\netstandard2.0\XF.MVVMBasic.dll
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\bin\Debug\netstandard2.0\ref\XF.MVVMBasic.dll
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\bin\Debug\netstandard2.0\XF.MVVMBasic.pdb
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XF.MVVMBasic.csprojAssemblyReference.cache
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\View\AlunoViewPage.xaml.g.cs
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XF.MVVMBasic.AssemblyInfoInputs.cache
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XF.MVVMBasic.AssemblyInfo.cs
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XF.MVVMBasic.csproj.CoreCompileInputs.cache
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XF.MVVMBasic.dll
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\ref\XF.MVVMBasic.dll
+C:\Users\Kim Ochii\source\repos\XF.MVVMBasic\XF.MVVMBasic\XF.MVVMBasic\obj\Debug\netstandard2.0\XF.MVVMBasic.pdb
